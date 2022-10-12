@@ -1,0 +1,1 @@
+this repository contains examples of my data processing using python, as well as examples of working with machine learning algorithms
